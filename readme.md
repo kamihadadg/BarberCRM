@@ -13,7 +13,7 @@ rm customers/migrations/0*.py
 rm services/migrations/0*.py
 rm appointments/migrations/0*.py
 
-
+KT
 -->
 
 
