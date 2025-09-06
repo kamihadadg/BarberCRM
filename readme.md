@@ -1,4 +1,4 @@
-<!-- --    
+<!-- --  
 
 
 # نصب Django و Django REST Framework
@@ -16,17 +16,13 @@ rm appointments/migrations/0*.py
 KT OK
 -->
 
-
 python -m venv venv
-
 
 venv\Scripts\activate
 
+source venv/Scripts/activate
 
 pip install -r requirements.txt
-
-
-
 
 python manage.py makemigrations accounts customers services appointments
 
